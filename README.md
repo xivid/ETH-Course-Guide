@@ -18,5 +18,5 @@ description: A practical guide to course taking at ETH Zurich.
 
 ## Contribute Your Experiences!
 
-Fork this repo on GitHub and send pull requests.
+If you would like to contribute your content, please fork [this repo](https://github.com/Xivid/ETH-Course-Guide) on GitHub, then send pull requests!
 
