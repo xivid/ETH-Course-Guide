@@ -4,11 +4,11 @@ description: A practical guide to course taking at ETH Zurich.
 
 # ETH Course Guide
 
-## Course List
+## List Courses By Department
 
 ### D-INFK
 
-1. [Computer Systems](computer-systems.md)
+1. [Computer Systems](d-infk/computer-systems.md)
 2. [Graph Theory](graph-theory.md)
 
 ### D-MATH
