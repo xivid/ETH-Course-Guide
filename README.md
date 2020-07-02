@@ -1,5 +1,5 @@
 ---
-description: A practical guide to course taking at ETH Zurich.
+description: Community-contributed reviews for courses in ETH Zurich.
 ---
 
 # ETH Course Guide
@@ -18,5 +18,5 @@ description: A practical guide to course taking at ETH Zurich.
 
 ## Contribute Your Experiences!
 
-If you would like to contribute your content, please fork [this repo](https://github.com/Xivid/ETH-Course-Guide) on GitHub, then send pull requests!
+If you would like to contribute your content, please fork [this repository](https://github.com/Xivid/ETH-Course-Guide) on GitHub, make changes in your local repository, and send us pull requests!
 
