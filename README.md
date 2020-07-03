@@ -1,7 +1,3 @@
----
-description: Community-contributed reviews for courses in ETH Zurich.
----
-
 # ETH Course Guide
 
 This site is created for sharing course materials and experiences in ETH Zurich. Everyone is encouraged to contribute contents through GitHub. Visitors may also share experiences or feelings about individual courses using the comment system under each page. Hopefully all these information can help in your course selecting, learning and exam preparing.

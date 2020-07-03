@@ -1,4 +1,6 @@
 {
+    "title": "ETH Course Guide",
+    "description": "Community-contributed reviews for courses in ETH Zurich.",
     "plugins": ["disqus", "theme-comscore"],
     "pluginsConfig": {
         "disqus": {
