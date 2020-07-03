@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus"],
+    "plugins": ["disqus", "theme-comscore"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "ethz-xyz"
