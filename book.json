@@ -1,10 +1,14 @@
 {
     "title": "ETH Course Guide",
     "description": "Community-contributed reviews for courses in ETH Zurich.",
-    "plugins": ["disqus", "theme-comscore"],
+    "plugins": ["disqus", "theme-comscore", "edit-link-plus"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "ethz-xyz"
+        },
+
+        "edit-link-plus": {
+            "base": "https://github.com/Xivid/ETH-Course-Guide/edit/master"
         }
     }
 }
