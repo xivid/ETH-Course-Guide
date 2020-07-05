@@ -1,0 +1,1 @@
+# 263-5806-00L Computational Models of Motion for Character Animation and Robotics
