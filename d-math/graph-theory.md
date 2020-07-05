@@ -1,6 +1,0 @@
-# Graph Theory
-
-TBA
-
-TBA
-

@@ -10,10 +10,10 @@ If you would like to contribute your content, please <iframe src="https://ghbtns
 
 You will need a GitHub account to do so. [GitHub](https://github.com) is the most popular platform for version control and project collaboration. It works upon the famous version control system [git](https://git-scm.com). If you are not familiar with git commands, we encourage using the web interface or desktop client of GitHub. Please check the GitHub documentation about the basic operations.
 
-To contribute your content for a course, simply modify the Markdown (.md) file of that course, located in `[department]/[course-name].md`. You can use GitHub's online editor, but learning some basic Markdown syntax is strongly encouraged. If the course is not yet existent on this website, please create the Markdown file using the course's full name, put it in the directory of the professor's affiliated department, and link it by adding an entry in `SUMMARY.md`; for example, for Algorithms Lab in the Department of Computer Science, create a file `algorithms-lab.md` in `d-infk/`, and add one line in `SUMMARY.md` at the root folder:
+To contribute your content for a course, simply modify the Markdown (.md) file of that course, located in `[department]/[course-name].md`. You can use GitHub's online editor, but learning some basic Markdown syntax is strongly encouraged. If the course is not yet existent on this website, please create the Markdown file using the course's full name, put it in the directory of the professor's affiliated department, and link it by adding an entry in `SUMMARY.md`; for example, for Algorithms Lab in the Department of Computer Science, create a folder `algorithms-lab` in `d-infk/`, put your content in `d-infk/algorithms-lab/README.md`, then add one line in `SUMMARY.md` at the root folder:
 
 ```pre
-    * [Algorithms Lab](d-infk/algorithms-lab.md)
+    * [Algorithms Lab](d-infk/algorithms-lab/README.md)
 ```
 
 ## Rules

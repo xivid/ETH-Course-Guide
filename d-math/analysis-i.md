@@ -1,4 +1,0 @@
-# Analysis I
-
-TBA
-
