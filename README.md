@@ -4,9 +4,9 @@ This site is created for sharing course materials and learning experiences in ET
 
 Under every page there is a **discussion system**, where everyone is welcome to share experiences and feelings about individual courses. 
 
-Hopefully all these information can help in the course selecting, learning and exam preparing of ETH students.
+Hopefully all these information can help ETH students in course selecting, learning and exam preparing.
 
-You can find your course in the leftside list, or using the search bar.
+You can browse courses by department in the leftside list, or find your course using the search bar.
 
 ## Contribute Your Experiences!
 
