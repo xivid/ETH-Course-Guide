@@ -1,3 +1,3 @@
 # D-INFK
 
-Courses offered by the Department of Computer Science.
+Courses offered by the Department of Computer Science. 
