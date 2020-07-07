@@ -8,6 +8,16 @@ Hopefully all these information can help ETH students in course selecting, learn
 
 You can browse courses by department in the leftside list, or find your course using the search bar.
 
+{% changelog %}
+    {% date %}
+    {% message %}
+    {% files %}
+        {% badge %}
+        {% filename link=true %}
+        {% changes truncate=true %}
+    {% endfiles %}
+{% endchangelog %}
+
 ## Contribute Your Experiences!
 
 You are welcome to contribute your own content to this website! **[This tutorial](contributor_guide/) shows how to add courses or edit existing content easily using GitHub**.

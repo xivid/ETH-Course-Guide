@@ -1,7 +1,7 @@
 {
     "title": "ETH Course Guide",
     "description": "Community-contributed reviews for courses in ETH Zurich.",
-    "plugins": ["disqus", "theme-comscore", "edit-link-plus", "folding-menu"],
+    "plugins": ["disqus", "theme-comscore", "edit-link-plus", "folding-menu", "changelog"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "ethz-xyz"
